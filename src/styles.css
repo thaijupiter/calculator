@@ -15,6 +15,7 @@ body {
 }
 
 .calculator-grid > button {
+	text-align: center;
 	cursor: pointer;
 	font-size: 2rem;
 	background-color: rgba(255, 255, 255, .70);
